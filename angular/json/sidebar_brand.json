@@ -1,0 +1,39 @@
+{
+    "sidebar_brands" : [
+        { 
+            "brandName": "Acne", 
+            "brandLink": "#",
+            "brandCount": "50"
+        },
+        {
+            "brandName": "Grune Erde",
+            "brandLink": "#",
+            "brandCount": "56"
+        },
+        {
+            "brandName": "Albiro",
+            "brandLink": "#",
+            "brandCount": "27"
+        },
+        {
+            "brandName": "Ronhill",
+            "brandLink": "#",
+            "brandCount": "32"
+        },
+        {
+            "brandName": "Oddmolly",
+            "brandLink": "#",
+            "brandCount": "5"
+        },
+        {
+            "brandName": "Boudestijn",
+            "brandLink": "#",
+            "brandCount": "9"
+        },
+        {
+            "brandName": "Rosch Creative Culture",
+            "brandLink": "#",
+            "brandCount": "4"
+        }
+    ]
+}

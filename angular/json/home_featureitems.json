@@ -1,0 +1,70 @@
+{
+    "home_features" : [
+        { 
+            "homeFeatureImage" : "images/home/product1.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        },
+        {
+            "homeFeatureImage" : "images/home/product2.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        },
+        {
+            "homeFeatureImage" : "images/home/product3.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        },
+        {
+            "homeFeatureImage" : "images/home/product4.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        },
+        {
+            "homeFeatureImage" : "images/home/product5.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        },
+        {
+            "homeFeatureImage" : "images/home/product6.jpg",
+            "homeFeaturePrice" : "$56",
+            "homeFeatureDesc" : "Easy Polo Black Edition",
+            "homeAddtocartLink" : "#",
+            "homeAddtocartText" : "Add to cart",
+            "homeAddtowishLink" : "#",
+            "homeAddtocompareLink" : "#",
+            "homeAddtowishText" : "Add to wishlist",
+            "homeAddtocompareText" : "Add to compare"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "recommended_slider" : [
+        {
+            "recom_image":"images/home/recommend1.jpg",
+            "recom_price":"$56",
+            "recom_desc":"Easy Polo Black Edition",
+            "recom_link":"#",
+            "recom_cart":"Add to cart"
+        },
+        {
+            "recom_image":"images/home/recommend2.jpg",
+            "recom_price":"$56",
+            "recom_desc":"Easy Polo Black Edition",
+            "recom_link":"#",
+            "recom_cart":"Add to cart"
+        },
+        {
+            "recom_image":"images/home/recommend3.jpg",
+            "recom_price":"$56",
+            "recom_desc":"Easy Polo Black Edition",
+            "recom_link":"#",
+            "recom_cart":"Add to cart"
+        }
+    ]
+}

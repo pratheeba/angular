@@ -1,0 +1,47 @@
+{
+    "sidebar_category_name" : [
+        { 
+           "name" : "Sportswear",
+           "link" : "#",
+           "sub"  : ["Nike","Adidas","Puma"]
+        },
+        { 
+            "name" : "Mens", 
+            "link" : "#",
+            "sub": ["Fendi","Guess","Valentino","Dior","Versace","Chanel","Gucci"]
+        },
+        { 
+            "name" : "Womens", 
+            "link": "#",
+            "sub":["Fendi","Guess","Valentino","Dior","Versace"]
+        },
+        { 
+            "name" : "Kids", 
+            "link": "#"
+        },
+        { 
+            "name" : "Fashion", 
+            "link": "#"
+        },
+        { 
+            "name" : "Households", 
+            "link": "#"
+        },
+        { 
+            "name" : "Interiors", 
+            "link": "#"
+        },
+        { 
+            "name" : "Clothing", 
+            "link": "#"
+        },
+        { 
+            "name" : "Bags", 
+            "link": "#"
+        },
+        { 
+            "name" : "Shoes", 
+            "link": "#" 
+        }
+    ]
+}
